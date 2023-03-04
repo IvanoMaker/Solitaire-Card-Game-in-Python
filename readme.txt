@@ -1,5 +1,3 @@
-Evan Mead
-
 This project is a near fully fledged version of the game solitaire inplemented in Python.
 
 Solitaire is a card game about organizing and manipulating a set of cards based on specific conditions.

@@ -1,7 +1,6 @@
 """
 Solitaire Card Game
-Evan Mead - University of Vermont
-CS021
+Evan Mead - @IvanoMaker
 """
 import pygame
 import random
